@@ -6,5 +6,7 @@ public class Test {
         koyal.sount();
         koyal.eat();
 
+        C c = new C();
+        c.show();
     }
 }
